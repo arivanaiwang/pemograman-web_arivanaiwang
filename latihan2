@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan 2</title>
+</head>
+<body>
+    <h1>Ini adalah h1</h1>
+    <h2>Ini adalah h2</h2>
+    <h3>Ini adalah h3</h3>
+    <h4>Ini adalah h4</h4>
+
+    <p>
+        <i>Lorem, ipsum dolor sit amet consectetur adipisicing elit.<b> Modi illo sit aut odio nulla, quisquam vitae officia eius minus commodi? <u> Ipsam vitae vel nulla, voluptate consectetur at autem qui sed?
+    </p>
+
+
+</body>
+</html>
