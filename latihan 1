@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan1_pbo</title>
+    <style>
+        body{
+            background-image: url(img/Detail\ Warna\ dan\ Desain\ Background\ Pamflet\ ___1.\ Background\ Utama_\ Gradasi\ Alam__\ -\ __Warna\ Utam...\ \(1\).png);
+        }
+        h1{
+            font-size: 80px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        a{
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>halaman web pertama</h1>
+</body>
+</html>
